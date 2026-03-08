@@ -5,3 +5,5 @@
 - I’m a student passionate about **Data Science, Machine Learning, and Statistical Analysis**, using data to extract insights and solve real-world problems.
 
 - 📫 How to reach me **theexpertlearner@gmail.com**
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=akaashkr&repo=github-visitors-badge&countColor=%237B1E7A)
